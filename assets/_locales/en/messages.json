@@ -1,0 +1,36 @@
+{
+    "extName": {
+        "message": "Notice!",
+        "description": "Ext name"
+    },
+    "desc": {
+        "message": "if host in whitelist, the host show watermarker"
+    },
+    "save_success": {
+        "message": "save success"
+    },
+    "load_success": {
+        "message": "load success"
+    },
+    "popupBtn": {
+        "message": "setting"
+    },
+    "showMsg": {
+        "message": "WaterMarker Text"
+    },
+    "whiteListMsg": {
+        "message": "White List Settings"
+    },
+    "settings": {
+        "message": "setting"
+    },
+    "settingInfoMsg": {
+        "message": "Please provide the URLs you want to add to the whitelist, separating each URL with a semicolon (;)."
+    },
+    "save": {
+        "message": "Save"
+    },
+    "about": {
+        "message": "About"
+    }
+}

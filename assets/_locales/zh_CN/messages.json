@@ -1,0 +1,36 @@
+{
+    "extName": {
+        "message": "Notice!",
+        "description": "扩展名字"
+    },
+    "desc": {
+        "message": "如果在白名单的域名，通过水印标识"
+    },
+    "save_success": {
+        "message": "保存成功"
+    },
+    "load_success": {
+        "message": "加载成功"
+    },
+    "popupBtn": {
+        "message": "设置"
+    },
+    "showMsg": {
+        "message": "水印信息"
+    },
+    "whiteListMsg": {
+        "message": "白名单设置"
+    },
+    "settings": {
+        "message": "设置"
+    },
+    "settingInfoMsg": {
+        "message": "请提供您要添加到白名单的URL，每个URL之间使用分号 (;) 分隔开。"
+    },
+    "save": {
+        "message": "保存"
+    },
+    "about":{
+        "message":"关于"
+    }
+}
